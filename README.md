@@ -3,7 +3,7 @@
 This program allows the user to input a string and the output is the same string in Morse Code!
 
 
-#Install
+# Install
 
 Download the zip file for the project from GitHub using the green "Code" button in the upper right hand corner.
 
